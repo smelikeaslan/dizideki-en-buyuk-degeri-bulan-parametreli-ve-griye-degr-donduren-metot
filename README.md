@@ -1,0 +1,1 @@
+# dizideki-en-buyuk-degeri-bulan-parametreli-ve-griye-degr-donduren-metot
